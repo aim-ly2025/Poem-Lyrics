@@ -1,0 +1,81 @@
+ h1{
+    color: darkblue;
+    font-family:"Lugrasimo", cursive;
+    }
+h2{
+    color:darkblue;
+    font-family: "Texturina", serif;
+
+}
+
+h3{
+    color:darkblue;
+    font-family: "Texturina", serif;
+    font-style: italic;;
+
+}
+
+img{
+    border: 5px solid;
+    border-style: dotted;
+    border-color: rgb(124, 124, 239);
+
+}
+        
+     table {
+        font-family: "Quicksand", sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        background-color: rgb(113, 155, 233);
+        }
+
+        td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+        }
+
+        tr:nth-child(even) {
+        background-color: rgb(174, 198, 243);
+        }
+body{
+ background-color: rgb(233, 246, 250);
+}
+
+
+
+.poem{
+  color:rgb(47, 47, 72);
+  font-family: "Lugrasimo", cursive;
+
+}
+
+#biography{
+  font-family: "Texturina", serif;
+  color: rgb(8, 29, 105);
+  padding: ;
+  font-style: italic;
+
+}
+
+.lugrasimo-regular {
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.texturina-regulartwo{
+  font-family: "Texturina", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.quicksand-regularthree {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
