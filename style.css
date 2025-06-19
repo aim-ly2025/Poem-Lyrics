@@ -14,12 +14,18 @@ h3{
     font-style: italic;;
 
 }
+.header {
+ background-image: url("./topHeaderLeaf.jpg");
+}
+
 
 img{
     border: 5px solid;
     border-style: dotted;
+    border-radius: 30px;
     border-color: rgb(124, 124, 239);
-
+    max-width: 100%;
+    height: auto;
 }
         
      table {
@@ -49,11 +55,25 @@ body{
   font-family: "Lugrasimo", cursive;
 
 }
+.whiteBackground{
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.button {
+ /* background-color: #ffffff;*/
+  border: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 
 #biography{
   font-family: "Texturina", serif;
   color: rgb(8, 29, 105);
-  padding: ;
+  /* padding: ; */
   font-style: italic;
 
 }
@@ -65,7 +85,7 @@ body{
 }
 
 
-.texturina-regulartwo{
+/* .texturina-regulartwo{
   font-family: "Texturina", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -78,4 +98,4 @@ body{
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-}
+} */
