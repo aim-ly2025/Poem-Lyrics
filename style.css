@@ -61,9 +61,12 @@ body{
 }
 
 .button {
- /* background-color: #ffffff;*/
+  background-color: #ccfcff;
   border: none;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  padding: 8px ;
+  border-radius: 10px;
+  border: 1px solid;
   text-align: center;
   text-decoration: none;
   display: inline-block;
